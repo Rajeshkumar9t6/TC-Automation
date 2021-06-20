@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>TC-INDEX</title>
+<style type="text/css">
+
+.b1{
+ height: 50px;
+     width: 120%;
+      border-radius: 8px;
+background-color: #f18b2c  ;
+}
+
+</style>
+</head>
+<body background="img/bg6.jpg">
+<center><img src="img/logo.jpg" alt="logo" height="180" width="1200"></center>
+<div id="d1">
+<br><br><br><br>
+
+<table align="center">
+<form>
+<tr><td > <input type="button" onclick="location.href='view.html';" class="b1" value="GENERATE TC" /></br></br></td></tr>
+<tr><td> <input type="button" onclick="location.href='Tc-insert3.html';" class="b1" value="INSERT DATA" /></br></br></td></tr>
+<tr><td> <input type="button" onclick="location.href='upview.html';" class="b1" value="EDIT DATA" /></br></br></td></tr>
+<tr><td> <input type="button" onclick="location.href='conduct.html';" class="b1" value="CONDUCT AND ATTENDANCE" /></br></br></td></tr>
+<tr><td></br></br></td></tr>
+</form>
+</table>
+
+</div>
+</body>
+</html>
